@@ -1,4 +1,8 @@
 
+            def greeting():
+                print("Hello, World!")
+            greeting()
+        
 dfbadfg
 sffkjdghk
 dfgasdf
